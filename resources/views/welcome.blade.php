@@ -56,6 +56,7 @@
                     <a class="text-[#a1a1aa] no-underline text-sm font-normal underline-offset-4 inline-block hover:underline hover:text-white focus-visible:outline-2 focus-visible:outline-white focus-visible:outline-offset-2 focus-visible:rounded-sm" href="#" data-page="home" aria-label="Go back to home">&larr; Back</a>
                 </nav>
                 <h2 class="text-2xl font-semibold tracking-tight text-white mb-8">Projects</h2>
+                <p class="text-[0.9375rem] text-[#a1a1aa] leading-relaxed mb-8">Due to funding, I&apos;m not able to make every single app I&apos;ve made live yet, so they&apos;re staying on GitHub for now.</p>
                 <ul class="flex flex-col gap-8" role="list">
                     <li class="border-b border-[#3f3f46] pb-8" role="listitem">
                         <div class="flex items-baseline justify-between gap-4 mb-2 flex-wrap max-sm:flex-col max-sm:gap-1">
