@@ -61,7 +61,7 @@
                     <li class="border-b border-[#3f3f46] pb-8" role="listitem">
                         <div class="flex items-baseline justify-between gap-4 mb-2 flex-wrap max-sm:flex-col max-sm:gap-1">
                             <h3 class="text-lg font-semibold text-white">BasicEMS</h3>
-                            <a class="text-[0.8125rem] text-[#71717a] no-underline underline-offset-4 shrink-0 hover:underline hover:text-[#d4d4d8] focus-visible:outline-2 focus-visible:outline-white focus-visible:outline-offset-2 focus-visible:rounded-sm" href="#" data-h="aHR0cHM6Ly9iYXNpYy1lbXMubGFyYXZlbC5jbG91ZA==" target="_blank" rel="noopener noreferrer" aria-label="BasicEMS live demo">Live &rarr;</a>
+                            <a class="text-[0.8125rem] text-[#71717a] no-underline underline-offset-4 shrink-0 hover:underline hover:text-[#d4d4d8] focus-visible:outline-2 focus-visible:outline-white focus-visible:outline-offset-2 focus-visible:rounded-sm" href="#" data-h="aHR0cHM6Ly9naXRodWIuY29tL3ZhbGFzbWUvYmFzaWMtZW1z" target="_blank" rel="noopener noreferrer" aria-label="BasicEMS on GitHub">GitHub &rarr;</a>
                         </div>
                         <p class="text-[0.9375rem] text-[#a1a1aa] leading-relaxed mb-3">An employee management system built with Laravel for very small businesses, providing a simple and reliable way to manage employees, roles, and basic administrative tasks. The project focuses on clarity and practicality, keeping the system lightweight and easy to maintain, and is suitable both for small teams and as a Laravel learning project.</p>
                         <span class="text-[0.8125rem] text-[#71717a] font-normal inline-block">Laravel &middot; PHP</span>
@@ -69,7 +69,7 @@
                     <li class="border-b border-[#3f3f46] pb-8" role="listitem">
                         <div class="flex items-baseline justify-between gap-4 mb-2 flex-wrap max-sm:flex-col max-sm:gap-1">
                             <h3 class="text-lg font-semibold text-white">MyTasks</h3>
-                            <a class="text-[0.8125rem] text-[#71717a] no-underline underline-offset-4 shrink-0 hover:underline hover:text-[#d4d4d8] focus-visible:outline-2 focus-visible:outline-white focus-visible:outline-offset-2 focus-visible:rounded-sm" href="#" data-h="aHR0cHM6Ly9naXRodWIuY29tL3ZhbGFzbWUvbXktdGFza3M=" target="_blank" rel="noopener noreferrer" aria-label="MyTasks on GitHub">GitHub &rarr;</a>
+                            <a class="text-[0.8125rem] text-[#71717a] no-underline underline-offset-4 shrink-0 hover:underline hover:text-[#d4d4d8] focus-visible:outline-2 focus-visible:outline-white focus-visible:outline-offset-2 focus-visible:rounded-sm" href="#" data-h="aHR0cHM6Ly9teS10YXNrcy5sYXJhdmVsLmNsb3Vk" target="_blank" rel="noopener noreferrer" aria-label="MyTasks live demo">Live &rarr;</a>
                         </div>
                         <p class="text-[0.9375rem] text-[#a1a1aa] leading-relaxed mb-3">A straightforward task management application built with Laravel for individuals and small teams, offering a simple and dependable way to create, organise, and track tasks. The project prioritises clarity and ease of use, keeping the interface clean and the codebase lightweight, making it ideal for personal productivity or as a hands-on Laravel learning project.</p>
                         <span class="text-[0.8125rem] text-[#71717a] font-normal inline-block">Laravel &middot; PHP</span>
